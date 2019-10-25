@@ -1,0 +1,31 @@
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\bin\Debug\fileOrganProject.exe.config
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\bin\Debug\fileOrganProject.exe
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\bin\Debug\fileOrganProject.pdb
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.csprojAssemblyReference.cache
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Form1.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Properties.Resources.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.csproj.GenerateResource.cache
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.csproj.CoreCompileInputs.cache
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.exe
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.pdb
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.read.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.admin_login.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Write.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\amrhany.For1.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\amrhany.For2.resources
+C:\Users\AMR HANY\source\repos\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Edit.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.admin_login.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Edit.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\amrhany.For1.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\amrhany.For2.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.MainPage.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Properties.Resources.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.Read.resources
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.csproj.GenerateResource.cache
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.csproj.CoreCompileInputs.cache
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.exe
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.pdb
+D:\fileOrganProject\fileOrganProject\bin\Debug\fileOrganProject.exe.config
+D:\fileOrganProject\fileOrganProject\bin\Debug\fileOrganProject.exe
+D:\fileOrganProject\fileOrganProject\bin\Debug\fileOrganProject.pdb
+D:\fileOrganProject\fileOrganProject\obj\Debug\fileOrganProject.csprojAssemblyReference.cache
